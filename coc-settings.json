@@ -1,0 +1,5 @@
+{
+	"diagnostic.enable": false,
+	"python.linting.enabled": false,
+	"python.jediPath": "~/.pyenv/versions/3.9.4/lib/python3.9/site-packages/",
+}
